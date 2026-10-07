@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Arc Reactor Ring -->
+    <path
+        android:pathData="M 54 26 A 28 28 0 1 0 54 82 A 28 28 0 1 0 54 26 Z"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- 10 Reactor Segment Coils -->
+    <path
+        android:pathData="M 54 22 L 54 27 M 54 81 L 54 86 M 22 54 L 27 54 M 81 54 L 86 54 M 31.4 31.4 L 35 35 M 73 73 L 76.6 76.6 M 76.6 31.4 L 73 35 M 35 73 L 31.4 76.6"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round" />
+
+    <!-- Middle Concentric Ring -->
+    <path
+        android:pathData="M 54 34 A 20 20 0 1 0 54 74 A 20 20 0 1 0 54 34 Z"
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="1.8" />
+
+    <!-- Inscribed Precision Triangle / AI Core -->
+    <path
+        android:pathData="M 54 39 L 69 65 L 39 65 Z"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round" />
+
+    <!-- Central Glowing Power Core -->
+    <path
+        android:pathData="M 54 48 A 6 6 0 1 0 54 60 A 6 6 0 1 0 54 48 Z"
+        android:fillColor="#E0F7FA" />
+
+    <path
+        android:pathData="M 54 51 A 3 3 0 1 0 54 57 A 3 3 0 1 0 54 51 Z"
+        android:fillColor="#00E5FF" />
+</vector>

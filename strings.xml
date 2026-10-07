@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_description">JARVIS Accessibility Service allows user-authorized inspection of on-screen elements, accessible clicks, and assistive navigation per explicit user directives.</string>
+    <string name="notification_listener_service_description">JARVIS Notification Service reads active device alerts and notifications to provide summaries and vocal reminders when requested by the user.</string>
+</resources>
